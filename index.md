@@ -1,3 +1,6 @@
+[Home](index.md) | [Projects](projects.md)
+
+---
 
 Marwa Abubakr
 Master of Public Policy '26 Candidate
