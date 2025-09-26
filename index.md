@@ -8,6 +8,8 @@ Master of Public Policy '26 Candidate
 
 UC Berkeley, Goldman School of Public Policy
 
+---
+
 #About
 
 Economic Justice | Inclusive Fintech | Displacement & Human Rights | Data & Strategy for Social Impact 
